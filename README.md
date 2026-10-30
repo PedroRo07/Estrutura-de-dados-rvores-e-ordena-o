@@ -12,7 +12,7 @@ A divisão de tarefas foi estabelecida para que cada membro fosse responsável p
 
 * **Pedro Ró:** Implementação dos Desafios 1, 3 e 4.
 * **Hygor Nobre:** Implementação dos Desafios 2, 5, 6 e 7.
-* **Gustavo Ribeiro:** Implementação dos Desafios 8 e 9.
+* **Gustavo Ribeiro:** Implementação dos Desafios 8, 9 e 10.
 * **Renato Augusto:** Implementação dos Desafios 11, 12 e 13.
 
 ## 2. Desafios Concluídos
@@ -27,6 +27,7 @@ Foram concluídos com sucesso os seguintes problemas:
 * **07:** Diagnóstico de balanceamento
 * **08:** Seleção em ação
 * **09:** Inserção estável de registros
+* **10:** Merge sort e inversões
 * **11:** Quicksort com três regiões
 * **12:** Reconstrução balanceada
 * **13:** Catálogo com consultas por faixa
